@@ -1,0 +1,37 @@
+{
+  "basics": {
+    "name": "Amir Mohamed Gaouaou",
+    "phone": "(613)-862-4171",
+    "email": "amir.gaouaou@gmail.com",
+    "location": {
+      "address": "1703-470 Laurier Ave W",
+      "city": "Ottawa",
+      "region": "ON"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "url": "https://github.com/amirGaouaou"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://ca.linkedin.com/in/mohamed-amir-gaouaou-891880a1"
+      }
+    ]
+  },
+  "skills": [],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Intermediate"
+    }
+  ]
+}

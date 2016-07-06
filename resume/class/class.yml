@@ -1,0 +1,141 @@
+basics:
+  name: 'Amir Mohamed Gaouaou'
+  phone: (613)-862-4171
+  email: amir.gaouaou@gmail.com
+  degree: 'BASc in Software Engineering - COOP'
+  summary: 'Enthusiastic and passionate software developer with a keen interest in learning new technologies'
+  picture: ../profile.jpg
+  location:
+    address: '1703-470 Laurier Ave W'
+    postalCode: K1R7W9
+    city: Ottawa
+    countryCode: CA
+    region: ON
+  profiles:
+    -
+      network: GitHub
+      username: amirGaouaou
+      url: 'https://github.com/amirGaouaou'
+    -
+      network: LinkedIn
+      url: 'https://ca.linkedin.com/in/mohamed-amir-gaouaou-891880a1'
+work:
+  -
+    company: 'IBM Canada'
+    website: 'http://www-01.ibm.com/employment/us/extremeblue/'
+    position: 'Extreme Blue Technical Intern'
+    startDate: 2016-05
+    endDate: 2016-08
+    summary: 'IBM''s premier internship program for both graduate and undergraduate students.'
+    highlights:
+      - 'Worked with a team of 4 students to make a product pitch and prototype to be presented to IBM Executives in New York.'
+      - 'Created a service that extracts the data from chart images using Computer vision and Machine learning algorithms'
+      - 'Worked with OpenCV-Python'
+  -
+    company: 'IBM Canada'
+    website: 'http://www-03.ibm.com/software/products/en/cognos-analytics'
+    position: 'Front End Developer'
+    startDate: 2015-09
+    endDate: 2015-12
+    summary: 'Worked as a Front end developer on a IBM''s new version of Cognos Analytics.'
+    highlights:
+      - 'Developed multiple User Interface widgets using JavaScript'
+      - 'Worked with Modular JavaScript using RequireJS, Bootstrap, internal libraries), JQuery, HTML/CSS.'
+  -
+    company: Blackberry
+    website: 'http://us.blackberry.com/home.html'
+    position: 'Firmware Student Developer'
+    startDate: 2015-01
+    endDate: 2015-04
+    summary: 'Worked on the Blackberry powered Android OS and kernel'
+    highlights:
+      - 'Worked on the Android kernel boot process'
+      - 'Updated the touchscreen driver and ramdump operation'
+      - 'Worked on a test automation suite using a sobot to reproduce swipes on a touchscreen'
+  -
+    company: 'Giatec Scientific Inc.'
+    website: 'http://www.giatecscientific.com/'
+    position: 'Mobile Application Developer'
+    startDate: 2014-05
+    endDate: 2014-08
+    summary: 'Worked on wireless concrete testing mobile applications in Android and iOS'
+    highlights:
+      - 'Worked with Bluetooth Low Energy sensors to collect data and send commands from a smartphone'
+      - 'Included features such as Google Maps, Custom gallery, a gesture-drive interface, and Bluetooth communication'
+education:
+  -
+    area: 'BASc in Software Engineering - COOP'
+    institution: 'University of Ottawa'
+    gpa: '*GPA*: 8.4'
+    startDate: '2012'
+    endDate: '2017'
+    courses: []
+skills:
+  -
+    name: 'Web development'
+    level: Master
+    keywords:
+      - JavaScript
+      - HTML
+      - CSS
+      - MVC
+      - REST
+  -
+    name: 'Programming languages'
+    level: Master
+    keywords:
+      - Java
+      - C++
+      - C
+  -
+    name: 'Mobile Development'
+    level: Master
+    keywords:
+      - 'Android SDK'
+      - Java
+      - iOS
+      - Objective-C
+  -
+    name: 'Scripting Languages'
+    level: Master
+    keywords:
+      - Bash
+      - Python
+      - Swift
+      - JavaScript
+      - Lua
+  -
+    name: 'Software Development'
+    level: Master
+    keywords:
+      - UML
+      - Agile
+      - Scrum
+      - Git
+      - MVC
+languages:
+  -
+    language: English
+    fluency: 'Fluent speaker'
+  -
+    language: French
+    fluency: 'Native speaker'
+  -
+    language: Arabic
+    fluency: Intermediate
+awards:
+  -
+    title: 'Dean''s Honour list'
+    date: '2013'
+    awarder: 'University of Ottawa'
+    summary: 'Full-time students who obtained an annual grade point average of 8.5 or higher'
+  -
+    title: 'PCALS Scholarship'
+    date: '2013'
+    awarder: 'University of Ottawa'
+    summary: 'Value of 2500$'
+  -
+    title: 'Nortel Network Admission Scholarship'
+    date: '2012'
+    awarder: 'University of Ottawa'
+    summary: 'Value of 4000$'
