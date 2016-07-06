@@ -2,18 +2,10 @@
     "basics": {
         "name": "Amir Mohamed Gaouaou",
         "label": "Programmer",
-        "phone": "(613)-862-4171",
         "email": "amir.gaouaou@gmail.com",
         "degree": "BASc in Software Engineering - COOP",
         "summary": "Enthusiastic and passionate software developer with a keen interest in learning new technologies",
         "picture": "profile.jpg",
-        "location": {
-            "address": "1703-470 Laurier Ave W",
-            "postalCode": "K1R7W9",
-            "city": "Ottawa",
-            "countryCode": "CA",
-            "region": "ON"
-        },
         "profiles": [{
             "network": "GitHub",
             "username": "amirGaouaou",
